@@ -1,0 +1,55 @@
+<style>
+ol ul {
+    margin-bottom: 10px;
+}
+</style>
+
+---
+title: "JMP Workshop"
+---
+
+### Prerequisite
+
+1. Download and install JMP. Note that the Rotman licensed JMP is Windows only. Mac users may consider installing a virtualization software such as [Parallels Desktop](https://www.parallels.com){target="_blank"} so you could run Windows apps on a Mac. If you have any questions about the virtualization software, you may contact [Rotman IT Helpdesk](mailto:helpdesk@rotman.utoronto.ca).
+
+    * Download JMP from [Rotman Hub](https://hub.rotman.utoronto.ca/){target="_blank"}. Click the "Software" tile, and then follow the SAS "Download" link. The JMP download link is under the "JMP" tab.
+    
+    * Unzip the downloaded file into a temporary folder. Run the setup utility ("JMP\\JMP_Pro\15_1\\Windows\\setup.exe").
+    
+    * (Optional) After installation, launch JMP Pro 15. Under the menu "File > Preferences > JMP Updates", click "Check Now" and follow the instruction to update JMP from version 15.1 to 15.2.1. (You would need to creat a SAS profile by signing up SAS support community, download an update pacakge, and install it.)
+
+2. Get familiar with JMP navigation and basic use.
+
+    * Launch JMP Pro. Take a quick 5-minute hands-on tutorial under the menu "Help > Tutorials > Beginners Tutorial".
+    
+    * Go through 3 online video tutorials (about 50mins in total) at [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}. Note the datasets used in the tutorials can be found in JMP under the menu "Help > Sample Data Library".
+
+---    
+
+### Slides
+
+1. Session 1 (*coming soon*)
+
+2. Session 2 (*coming soon*)
+
+3. Session 3 (*coming soon*)
+
+---
+    
+### Data
+
+|        Download and unzip the datasets for the workshop (*coming soon*).
+
+---
+
+### Getting-started Resources
+
+* [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}
+
+* [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html){target="_blank"}
+
+* [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
